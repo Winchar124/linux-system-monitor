@@ -3,11 +3,7 @@
 while true; do
 clear
 echo "--------------------SYSTEM--------------------"
-echo "open connections:"
-ss -a
 echo
-echo "open processes:"
-ps aux
 echo "Time: $(date)"
 echo "Uptime: $(uptime -p)"
 echo
