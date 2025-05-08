@@ -1,0 +1,38 @@
+Project Selection Report: (Projects are due May 2nd at 11:59 PM)
+1.	Select a project from the list “Project_idea_Stevens” from Week 11 or select any other project of your liking.
+a.	I picked the linux system monitor project
+2.	Select your project based on these following questions: 
+a.	Why did you select this project (One paragraph)
+i.	I liked the idea of a system monitor. My major is computer/electrical engineering, so I really like being able to visualize the ins and outs of a computer.
+b.	Introduce your project (Couple of paragraphs)
+i.	The system monitor will allow you to see the stats of things like cpu usage in terminal. Week by week, ill expand functionality until im happy with the functionality and form factor.
+c.	What is the problem you are trying to solve? (One paragraph)
+i.	I’m trying to be able to see my system stats easily. A lot of programs that do this are built into systems, but on a system like Linux, everything is made by hand.
+d.	What is the proposed solution to solve the problem? (One paragraph)
+i.	Make a live system monitor for linux.
+3.	After answering these question, make a timetable with weekly milestone to help you finish the project by May 2nd. Be as clear and detailed with your milestones as possible. Make a table to make it structured and follow the STAR method. STAR stands for Situation, Task, Action, Result. 
+a.	So my situation was weird because I was not on top of my work throughout April, so I ended up doing all of these stages in week 3. For the first part/session, I learned how to set up my github repository and got familiar with how to commit changes and pushes to the repository via terminal. For my second session, I got basic functionality working with the CPU and storage monitoring. For my third session, I expanded on the functionality to make my final project. All of these stages are visible in the tree of my repository.
+
+
+
+
+WEEK 14 REPORT WITH UPDATES:
+Week 14: Reporting
+Task 1: Continue working on Project
+	I did this.
+Task 2: Make a report answering the following questions:
+1.	What hurdles have you faced so far?
+Setting up the push from terminal to GitHub
+This is still accurate as the largest hurdle I faced in the entire project. Once I got a hang of git, however, I understood it pretty well.
+2.	How did you solve them?
+A lot of googling and figuring things out on my own. I actually really enjoyed this process in the end, as it was very rewarding to finally have it work and see the repository end up on github.
+This is still true, I really like the sense of reward and satisfaction you get from finishing something and having a tangible result from something you’ve worked hard on and put a lot of time into.
+3.	What are you next steps? 
+Expanding on the functionality of my Linux system monitor.
+Done
+Task 3: Make a new repository on Git and upload to Github.
+Done
+Task 4: Commit your project files over to Git and upload to GitHub
+Done
+Task 5: Upload the report also to GitHub.
+Done
